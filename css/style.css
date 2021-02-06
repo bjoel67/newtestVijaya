@@ -551,7 +551,13 @@ a:focus {
   justify-content: center;
   background: #eff0f3;
 }
-
+.book_appointment{
+  background: #e6eaef;
+    padding: 35px;
+}
+.section_appointment{
+  padding-top: 50px;
+}
 .Appointment-content {
   position: relative;
   height: 475px;
